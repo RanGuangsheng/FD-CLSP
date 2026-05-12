@@ -1,0 +1,8 @@
+需要GPT2这几个文件，可以从huggingface或者其他地方下载：
+config.json
+merges.txt
+model.safetensors
+pytorch_model.bin
+tokenizer.json
+tokenizer_config.json
+vocab.json
